@@ -52,7 +52,6 @@
     <string name="error_sync">Usklajevanje je spodletelo: %1$s</string>
     <string name="error_json">Ali je program Beležka Notes nameščen na strežniku?</string>
     <string name="error_no_network">ni omrežne povezave</string>
-
     <!-- About -->
     <string name="about_version_title">Različica</string>
     <string name="about_version">Trenutno je v uporabi &lt;strong>%1$s&lt;/strong></string>

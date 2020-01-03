@@ -52,7 +52,7 @@
     <string name="error_sync">Fallo en la sincronización: %1$s</string>
     <string name="error_json">¿Está la app de Notas activada en el servidor?</string>
     <string name="error_no_network">no hay conexión a la red</string>
-
+    <string name="error_files_app">¿Ha instalado los archivos de la aplicación?</string>
     <!-- About -->
     <string name="about_version_title">Versión</string>
     <string name="about_version">Esta actualmente usando &lt;strong>%1$s&lt;/strong></string>

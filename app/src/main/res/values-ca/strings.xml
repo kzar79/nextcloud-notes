@@ -52,7 +52,6 @@
     <string name="error_sync">Ha fallat la sincronització: %1$s</string>
     <string name="error_json">l\'aplicació Notes està activada al servidor?</string>
     <string name="error_no_network">no hi ha connexió a la xarxa</string>
-
     <!-- About -->
     <string name="about_version_title">Versió</string>
     <string name="about_version">Actualment esteu utilitzant la versió &lt;strong>%1$s&lt;/strong></string>

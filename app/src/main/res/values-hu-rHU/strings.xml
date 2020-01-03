@@ -50,7 +50,6 @@
     <string name="error_sync">sikertelen szinkronizálás: %1$s</string>
     <string name="error_json">be van kapcsolva a Jegyzetek app a szerveren?</string>
     <string name="error_no_network">Nincs hálózati kapcsolat</string>
-
     <!-- About -->
     <string name="about_version_title">Verzió</string>
     <string name="about_version">Jelenleg ezt használod: &lt;strong>%1$s&lt;/strong></string>

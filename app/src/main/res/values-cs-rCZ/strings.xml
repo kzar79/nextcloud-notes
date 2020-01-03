@@ -52,7 +52,7 @@
     <string name="error_sync">Synchronizace se nezdařila: %1$s</string>
     <string name="error_json">je na serveru aktivní aplikace Poznámky?</string>
     <string name="error_no_network">žádné síťové spojení</string>
-
+    <string name="error_files_app">máte nainstalovanou aplikaci Soubory?</string>
     <!-- About -->
     <string name="about_version_title">Verze</string>
     <string name="about_version">Právě používáte &lt;strong>%1$s&lt;/strong></string>

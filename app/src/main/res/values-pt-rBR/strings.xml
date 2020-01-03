@@ -52,7 +52,7 @@
     <string name="error_sync">A sincronização falhou: %1$s</string>
     <string name="error_json">O aplicativo Notes está ativado no servidor?</string>
     <string name="error_no_network">não existe conexão de rede</string>
-
+    <string name="error_files_app">Você instalou o aplicativo files?</string>
     <!-- About -->
     <string name="about_version_title">Versão</string>
     <string name="about_version">Você está usando &lt;strong>%1$s&lt;/strong></string>

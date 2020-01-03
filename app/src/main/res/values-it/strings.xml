@@ -52,7 +52,7 @@
     <string name="error_sync">Sincronizzazione non riuscita: %1$s</string>
     <string name="error_json">L\'applicazione Notes è stata attivata sul server?</string>
     <string name="error_no_network">nessuna connessione di rete</string>
-
+    <string name="error_files_app">hai installato l\'applicazione File?</string>
     <!-- About -->
     <string name="about_version_title">Versione</string>
     <string name="about_version">Stai utilizzando attualmente &lt;strong>%1$s&lt;/strong></string>
